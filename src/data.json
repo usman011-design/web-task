@@ -1,0 +1,42 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Introduction to React",
+        "content": "React is a JavaScript library..."
+      },
+      {
+        "id": 2,
+        "title": "Getting Started with Node.js",
+        "content": "Node.js is a runtime..."
+      },
+      {
+        "id": 3,
+        "title": "CSS Grid Layout Basics",
+        "content": "CSS Grid Layout is a powerful..."
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "blogId": 1,
+        "text": "Great introduction to React!"
+      },
+      {
+        "id": 2,
+        "blogId": 1,
+        "text": "I learned a lot from this."
+      },
+      {
+        "id": 3,
+        "blogId": 2,
+        "text": "Node.js is awesome!"
+      },
+      {
+        "id": 4,
+        "blogId": 3,
+        "text": "CSS Grid is a game changer."
+      }
+    ]
+  }
+  
